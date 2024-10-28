@@ -1,0 +1,729 @@
+{
+    "Verification Method Documentation Analysis": {
+        "score": 75.59682019685762,
+        "report": {
+            "readme": true,
+            "nlines": 1811,
+            "ncomments": 148,
+            "ratio comments": 2.3872807874305115,
+            "files": [
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/Readme.txt",
+                    "score": 0.0,
+                    "nlines": 17,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Plot_both.py",
+                    "score": 0.0,
+                    "nlines": 20,
+                    "ncomments": 0,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Plot_both.py: n empty lines = 11"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF_RS.py",
+                    "score": 0.0,
+                    "nlines": 40,
+                    "ncomments": 0,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF_RS.py: n empty lines = 50"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/TF_B_HHFS.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/TF_B_HHFS_th.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/TF_B_HHRS_th.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/TF_B.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Mean_field_TF.py",
+                    "score": 0.0,
+                    "nlines": 58,
+                    "ncomments": 0,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Mean_field_TF.py: n empty lines = 67"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF_FS.py",
+                    "score": 2.5,
+                    "nlines": 40,
+                    "ncomments": 1,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF_FS.py: n empty lines = 50"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF.py",
+                    "score": 0.0,
+                    "nlines": 42,
+                    "ncomments": 0,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF.py: n empty lines = 51"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/TF_calculus/TF_B_HHRS.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/mean_field/stability.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/mean_field/euler_method.py",
+                    "score": 14.678899082568808,
+                    "nlines": 109,
+                    "ncomments": 16,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/mean_field/euler_method.py: n empty lines = 49"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/mean_field/__init__.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/mean_field/master_equation.py",
+                    "score": 17.699115044247787,
+                    "nlines": 113,
+                    "ncomments": 20,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/mean_field/master_equation.py: n empty lines = 39"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/mean_field/__init__.py",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type application/x-empty"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/mean_field/master_equation.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/mean_field/euler_method.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/single_cell_models/cell_library.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/single_cell_models/Example.py",
+                    "score": 0.0,
+                    "nlines": 19,
+                    "ncomments": 0,
+                    "error": [
+                        "('EOF in multi-line statement', (29, 0))"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/single_cell_models/cell_library.py",
+                    "score": 0.0,
+                    "nlines": 65,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/single_cell_models/cell_construct.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/single_cell_models/__init__.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/single_cell_models/__init__.py",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type application/x-empty"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/single_cell_models/cell_construct.py",
+                    "score": 0.0,
+                    "nlines": 104,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/waveform_input.py",
+                    "score": 0.0,
+                    "nlines": 81,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/sngle_neuron.py",
+                    "score": 0.0,
+                    "nlines": 76,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/compare_with_mean_field.py",
+                    "score": 14.705882352941176,
+                    "nlines": 238,
+                    "ncomments": 35,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/network_simulations/compare_with_mean_field.py: n empty lines = 90"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/plot_single_sim.py",
+                    "score": 0.0,
+                    "nlines": 84,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/plot_single_sim.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/__init__.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/__init__.py",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type application/x-empty"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/time_varying_input.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/time_varying_input.py",
+                    "score": 48.888888888888886,
+                    "nlines": 45,
+                    "ncomments": 22,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/network_simulations/time_varying_input.py: n empty lines = 23"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/ntwk_sim_demo.py",
+                    "score": 9.917355371900827,
+                    "nlines": 121,
+                    "ncomments": 12,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/network_simulations/ntwk_sim_demo.py: n empty lines = 33"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/compare_with_mean_field.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/HH_response.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/ntwk_sim_demo.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/waveform_input.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/data/example.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/data/__for_folder_creation",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type application/x-empty"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/network_simulations/data/waveform_input_example.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/theoretical_tools.py",
+                    "score": 21.348314606741575,
+                    "nlines": 178,
+                    "ncomments": 38,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/transfer_functions/theoretical_tools.py: n empty lines = 102"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/load_config.py",
+                    "score": 11.11111111111111,
+                    "nlines": 36,
+                    "ncomments": 4,
+                    "error": [],
+                    "log": [
+                        "/tmp/cwl-test/code/263259/HH_project/transfer_functions/load_config.py: n empty lines = 7"
+                    ]
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/__init__.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/__init__.py",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type application/x-empty"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/load_config.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/tf_simulation.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/tf_simulation.py",
+                    "score": 0.0,
+                    "nlines": 238,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/theoretical_tools.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/data/__for_folder_creation",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type application/x-empty"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/data/HH_RS_CONFIG1_fit.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/transfer_functions/data/HH_FS_CONFIG1_fit.npy",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+                        "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/synapses_and_connectivity/syn_and_connec_library.py",
+                    "score": 0.0,
+                    "nlines": 42,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/synapses_and_connectivity/syn_and_connec_library.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/synapses_and_connectivity/syn_and_connec_construct.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/synapses_and_connectivity/__init__.pyc",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+                        "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/synapses_and_connectivity/__init__.py",
+                    "score": 0.0,
+                    "nlines": 0,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type application/x-empty"
+                    ],
+                    "log": []
+                },
+                {
+                    "filename": "/tmp/cwl-test/code/263259/HH_project/synapses_and_connectivity/syn_and_connec_construct.py",
+                    "score": 0.0,
+                    "nlines": 45,
+                    "ncomments": 0,
+                    "error": [
+                        "Unsupported MIME type text/plain"
+                    ],
+                    "log": []
+                }
+            ],
+            "paper": true,
+            "homepage": true
+        },
+        "error": [
+            "Unsupported MIME type text/plain",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "Unsupported MIME type application/x-empty",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "('EOF in multi-line statement', (29, 0))",
+            "Unsupported MIME type text/plain",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "Unsupported MIME type application/x-empty",
+            "Unsupported MIME type text/plain",
+            "Unsupported MIME type text/plain",
+            "Unsupported MIME type text/plain",
+            "Unsupported MIME type text/plain",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "Unsupported MIME type application/x-empty",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "Unsupported MIME type application/x-empty",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "Unsupported MIME type application/x-empty",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "Unsupported MIME type text/plain",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "Unsupported MIME type application/x-empty",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte",
+            "Unsupported MIME type text/plain",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "'utf-8' codec can't decode byte 0xf3 in position 1: invalid continuation byte",
+            "Unsupported MIME type application/x-empty",
+            "Unsupported MIME type text/plain"
+        ],
+        "log": [
+            "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Plot_both.py: n empty lines = 11",
+            "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF_RS.py: n empty lines = 50",
+            "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Mean_field_TF.py: n empty lines = 67",
+            "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF_FS.py: n empty lines = 50",
+            "/tmp/cwl-test/code/263259/HH_project/TF_calculus/Single_neuron_TF.py: n empty lines = 51",
+            "/tmp/cwl-test/code/263259/HH_project/mean_field/euler_method.py: n empty lines = 49",
+            "/tmp/cwl-test/code/263259/HH_project/mean_field/master_equation.py: n empty lines = 39",
+            "/tmp/cwl-test/code/263259/HH_project/network_simulations/compare_with_mean_field.py: n empty lines = 90",
+            "/tmp/cwl-test/code/263259/HH_project/network_simulations/time_varying_input.py: n empty lines = 23",
+            "/tmp/cwl-test/code/263259/HH_project/network_simulations/ntwk_sim_demo.py: n empty lines = 33",
+            "/tmp/cwl-test/code/263259/HH_project/transfer_functions/theoretical_tools.py: n empty lines = 102",
+            "/tmp/cwl-test/code/263259/HH_project/transfer_functions/load_config.py: n empty lines = 7"
+        ],
+        "advice": []
+    }
+}
